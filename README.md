@@ -1,4 +1,4 @@
-
+trying on Debian
 
 
 ![GigaWallet Logo](/doc/gigawallet-logo.png)
